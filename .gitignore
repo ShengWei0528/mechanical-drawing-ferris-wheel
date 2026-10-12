@@ -1,0 +1,21 @@
+# CAD backups, locks and autosaves
+*.bak
+*.dwgbak
+*.3dmbak
+*.rhl
+*.dwl
+*.dwl2
+*.sv$
+*.ac$
+*.tmp
+plot.log
+
+# Private originals (contain embedded local paths / student IDs)
+*.dwg
+*.pdf
+
+# OS / editor junk
+desktop.ini
+Thumbs.db
+.DS_Store
+~$*
